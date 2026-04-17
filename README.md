@@ -12,7 +12,7 @@
 
 | Project | Description |
 |---|---|
-| [PARKEE](https://parkee.app) | Automated cashless parking for 500+ locations, 400K+ users across 50 Indonesian cities |
+| [PARKEE](https://parkee.app) | Automated cashless parking for ~700 locations, 100M USD, 1M+ registered (ios/android) users across Indonesian |
 | [Mobius Labs](https://github.com/mlabsasia) | Full-cycle AI software & automation Consultant |
 | [Antive](https://github.com/antiveid) | (OmiChannel CRM Helpdesk AI Automation) |
 

@@ -44,7 +44,6 @@ Technology, Software Engineeering, Product Creation, AI, anything tech related
 ![Ruby](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000?logo=apple&logoColor=white)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
